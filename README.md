@@ -1,3 +1,3 @@
-https://leolvm.github.io/javaee/
+https://leolvm.github.io
 Java-WEB - Agenda de Contatos
 
